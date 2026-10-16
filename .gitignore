@@ -1,0 +1,9 @@
+# 模型权重与微调产物（体积大，不入库）
+models/
+output/
+
+# 第三方框架源码
+LlamaFactory-main/
+
+# 日志
+01-code-logs/*.log
